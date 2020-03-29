@@ -1,0 +1,15 @@
+{
+    "name": "@southpaw9/set",
+    "version": "2.0.0",
+    "description": "Removes duplicate elements in array",
+    "license": "MIT",
+    "repository": "FrhanAm/set-npm-package",
+    "main": "index.js",
+    "keywords": [
+        "set",
+        "npm",
+        "package",
+        "array",
+        "southpaw9"
+    ]
+}
