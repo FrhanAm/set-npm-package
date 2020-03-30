@@ -1,5 +1,5 @@
 {
-    "name": "@southpaw9/set",
+    "name": "@farhanam/set",
     "version": "2.0.0",
     "description": "Removes duplicate elements in array",
     "license": "MIT",
@@ -10,6 +10,7 @@
         "npm",
         "package",
         "array",
-        "southpaw9"
+        "farhanam",
+        "unique"
     ]
 }

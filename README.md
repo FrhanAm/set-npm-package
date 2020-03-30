@@ -1,6 +1,6 @@
-# @southpaw9/set
+# @farhanam/set
 
-[![npm](https://img.shields.io/npm/v/@southpaw9/set?color=blue&label=npm%20)](https://www.npmjs.com/package/@southpaw9/set)
+[![npm](https://img.shields.io/npm/v/@farhanam/set?color=blue&label=npm%20)](https://www.npmjs.com/package/@farhanam/set)
 
 
 Removes duplicate elements in arrays.
@@ -8,13 +8,13 @@ Removes duplicate elements in arrays.
 ## Install
 
 ```
-$ npm install @southpaw9/set
+$ npm install @farhanam/set
 ```
 
 ## Usage
 
 ```js
-const set = require("@southpaw9/set");
+const set = require("@farhanam/set");
 
 set([1, 1, 2, 3, 4, 4, 5, 6, 3, 4, 5]);
 //=> [1, 2, 3, 4, 5, 6]
@@ -24,4 +24,4 @@ tiny("helloworld");
 ```
 ## License
 
-@southpaw9/set is released under the terms of the MIT License.
+@farhanam/set is released under the terms of the MIT License.
